@@ -1,0 +1,22 @@
+{
+  "compilerOptions": {
+    "allowJs": false,
+    "baseUrl": ".",
+    "esModuleInterop": true,
+    "lib": ["DOM", "ES2018"],
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "noImplicitAny": true,
+    "noUnusedLocals": true,
+    "outDir": "dist",
+    "paths": {
+      "*": [
+        "src/main/ts/*",
+        "node_modules/*"
+      ]
+    },
+    "sourceMap": true,
+    "target": "es6"
+  },
+  "include": ["src/main/ts/**/*"]
+}
