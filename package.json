@@ -1,0 +1,23 @@
+{
+  "name": "phoenix-builder-service",
+  "version": "1.0.0",
+  "description": "This is the NodeJS backend service for Phoenix Builder. It exposes a series of API end-points that can be consumed to get words, english words, and word-groups for the various language suites available.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "phoenix-builder",
+    "language",
+    "amabibi",
+    "niger-delta",
+    "nigeria",
+    "kalabari",
+    "abonemma",
+    "southern-nigeria",
+    "dialects",
+    "api"
+  ],
+  "author": "Dalton Whyte",
+  "license": "MIT"
+}
